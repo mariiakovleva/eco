@@ -96,12 +96,16 @@ body {
     padding: 20px 50px;
     border-radius: 50px;
     border: 1px solid #45BC96;
+}
 
+.main-button-link{
     color: white;
     font-family: 'Gallinari', sans-serif;
     word-spacing: 15%;
     font-size: 18px;
+    text-decoration: none;
 }
+
 .main-button:hover {
     background-color: #8cdac1;
     -webkit-transition: all 0.3s ease;;
@@ -1145,7 +1149,7 @@ border-bottom-left-radius: 4px;
 
 
     .header__logo-pic{
-        width: 44px;
+        width: 50px;
     }
 
     .header__container{
@@ -1158,7 +1162,7 @@ border-bottom-left-radius: 4px;
     }
 
     .header__nav-link{
-        font-size: 11px;
+        font-size: 14px;
         padding-right: 3px;
     }
 
@@ -1170,6 +1174,7 @@ border-bottom-left-radius: 4px;
     .main__container{
         padding: 20px;
         display: block;
+        padding-top: 0;
     }
 
     .main-title__container{
@@ -1315,6 +1320,11 @@ border-bottom-left-radius: 4px;
 
     .map__container{
         margin: 0;
+        padding-top: 0;
+    }
+
+    .item-map__container{
+        height: auto;
     }
 
     .advice__section{
@@ -1328,7 +1338,6 @@ border-bottom-left-radius: 4px;
     .button-all-events__container{
         margin: 10px;
     }
-
 }
 
 
