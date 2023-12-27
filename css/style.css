@@ -1290,6 +1290,7 @@ border-bottom-left-radius: 4px;
         flex-direction: column;
         margin: 0;
         row-gap: 30px;
+	padding-top: 0;
     }
 
     .accordion{
