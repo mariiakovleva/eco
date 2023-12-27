@@ -1290,7 +1290,7 @@ border-bottom-left-radius: 4px;
         flex-direction: column;
         margin: 0;
         row-gap: 30px;
-	padding-top: 0;
+        padding-top: 0;
     }
 
     .accordion{
@@ -1301,14 +1301,15 @@ border-bottom-left-radius: 4px;
     .today_article{
         margin-right: 0px;
         width: 100%;
+        align-items: center;
     }
 
     .articles-item-title{
-        left: 40px;
+        /* left: 40px; */
     }
 
     .articles-item-date{
-        left: 40px;
+        left: 27px;
     }
 
     .advice-pic__container img{
