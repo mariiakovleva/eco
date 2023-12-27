@@ -542,7 +542,7 @@ border-bottom-left-radius: 4px;
 .articles-item-title{
     position: absolute;
     bottom: 36px;
-    left: 90px;
+    left: 44px;
     max-width: 208px;
     text-decoration: none;
 
@@ -554,7 +554,7 @@ border-bottom-left-radius: 4px;
 .articles-item-date{
     position: absolute;
     bottom: 10px;
-    left: 90px;
+    left: 44px;
     letter-spacing: 3px;
     color: white;
     font-size: 15px;
